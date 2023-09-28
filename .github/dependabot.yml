@@ -1,8 +1,8 @@
 version: 2
 updates:
 - package-ecosystem: "bundler"
-    directory: "/"
-    versioning-strategy: increase
-    open-pull-requests-limit: 20
-    insecure-external-code-execution: deny
+  directory: "/"
+  versioning-strategy: increase
+  open-pull-requests-limit: 20
+  insecure-external-code-execution: deny
     
