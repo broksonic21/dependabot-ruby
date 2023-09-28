@@ -5,3 +5,4 @@ updates:
     versioning-strategy: increase
     open-pull-requests-limit: 20
     insecure-external-code-execution: deny
+    
